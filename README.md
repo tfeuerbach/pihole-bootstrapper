@@ -10,7 +10,7 @@
 ## Quick Start
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/tfeuerbach/pihole-bootstrapper/main/pihole-bootstrapper.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/tfeuerbach/pihole-bootstrapper/master/pihole-bootstrapper.sh)"
 ```
 
 # Pi-hole Bootstrapper for macOS
