@@ -5,6 +5,7 @@
   <img alt="macOS" src="https://img.shields.io/badge/Platform-macOS-black?logo=apple&logoColor=white"> 
   <img alt="Shell" src="https://img.shields.io/badge/Shell-bash-4EAA25?logo=gnu-bash&logoColor=white"> 
   <img alt="Requires" src="https://img.shields.io/badge/Requires-Docker-2496ED?logo=docker&logoColor=white">
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 ## Quick Start
@@ -66,3 +67,7 @@ Got Windows/PowerShell skill or non‑UNIX experience? Please fork and open a PR
 - Lint: run `shellcheck pihole-bootstrapper.sh`
 - Optional CI: GitHub Actions with ShellCheck for PRs/commits
 - Style: POSIX-friendly bash, set -e, minimal prompts, clear output
+
+## License
+
+MIT — see [LICENSE](LICENSE).
